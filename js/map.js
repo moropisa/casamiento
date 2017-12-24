@@ -23,7 +23,7 @@ var geojsonMarkerOptions = {
    var grafitis;
 
 
-$.getJSON("http://raw.githubusercontent.com/moropisa/casamiento/master/data.geojson",function(data){
+$.getJSON("https://raw.githubusercontent.com/moropisa/casamiento/master/data.geojson",function(data){
 	grafitis = L.geoJson(data, {pointToLayer: function(feature, latlng){
 		//marker = L.marker(latlng);
 		marker = L.circleMarker(latlng, geojsonMarkerOptions);
