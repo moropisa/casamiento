@@ -1338,6 +1338,15 @@ h1, h2, h3, h4, h5, h6 {
   -o-transform: scale(1.1);
   transform: scale(1.1);
 }
+#qbootstrap-redes .section-heading.colored .svg {
+    fill: #fff;
+}
+#qbootstrap-redes .section-heading h2 {
+  color: #fff;
+}
+#qbootstrap-redes .section-heading p {
+  color: #fff;
+} 
 
 #qbootstrap-press {
   background: #f4f4f4;
