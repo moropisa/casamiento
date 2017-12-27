@@ -17,7 +17,7 @@ body {
   font-size: 18px;
   line-height: 1.8;
   color: #777777;
-  color: #818892;
+  color: #CFD8DC;
   background: #fff;
   height: 100%;
   position: relative;
@@ -250,7 +250,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .section-heading h2 {
   font-size: 80px;
-  color: #818892;
+  color: #CFD8DC;
   display: block;
   padding-bottom: 20px;
   line-height: 1.5;
