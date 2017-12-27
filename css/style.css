@@ -488,7 +488,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 1000;
 }
 #qbootstrap-slider-hero .flexslider .flex-control-nav li a {
-  background: ffffff;
+  background: rgba (255, 255, 255, 1);
   box-shadow: none;
   width: 12px;
   height: 12px;
