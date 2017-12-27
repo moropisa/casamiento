@@ -714,10 +714,10 @@ h1, h2, h3, h4, h5, h6 {
 #qbootstrap-when-where-fiesta .section-heading.colored .svg {
     fill: #fff;
 }
-#qbootstrap-when-where-fiesta h2 {
+#qbootstrap-when-where-fiesta .section-heading h2 {
   color: #fff;
 }
-#qbootstrap-when-where-fiesta h3 {
+#qbootstrap-when-where-fiesta .section-heading h3 {
   color: #fff;
 } 
 .couple {
