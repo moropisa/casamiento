@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 ::selection {
-  color: #818892;
+  color: #CFD8DC;
   background: #f9f6f0;
 }
 
@@ -86,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
     transition: 0.3s;
   }
   #qbootstrap-header #navbar li a:hover {
-    color: #FF847C !important;
+      color: #F48FB1 !important;
   }
   #qbootstrap-header #navbar li a span:before {
     background: transparent !important;
