@@ -662,7 +662,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0 !important;
 }
 #qbootstrap-countdown .section-heading h2 {
-  color: #fffff          ;
+  color: #ffffff;
 }
 @media screen and (max-width: 768px) {
   #qbootstrap-countdown .section-heading h2 {
@@ -711,11 +711,9 @@ h1, h2, h3, h4, h5, h6 {
 #qbootstrap-countdown .display-over {
   z-index: 2;
 }
-
 #qbootstrap-when-where-fiesta {
   color: #ffffff;
 }
-
 .couple {
   border: 1px solid rgba(0, 0, 0, 0.05);
   padding: 40px;
