@@ -24,13 +24,13 @@ body {
 }
 
 a {
-  color: #FF847C;
+  color: #F48FB1;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #FF847C;
+  color: #F48FB1 ;
   outline: none;
 }
 
@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 ::-moz-selection {
-  color: #818892;
+  color: #CFD8DC;
   background: #f9f6f0;
 }
 
