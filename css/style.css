@@ -712,6 +712,10 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 2;
 }
 
+#qbootstrap-when-where-fiesta {
+  color: #ffffff
+}
+
 .couple {
   border: 1px solid rgba(0, 0, 0, 0.05);
   padding: 40px;
