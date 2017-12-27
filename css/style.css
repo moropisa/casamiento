@@ -30,7 +30,7 @@ a {
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #F48FB1 ;
+  color: #F48FB1;
   outline: none;
 }
 
