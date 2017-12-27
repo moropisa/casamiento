@@ -662,7 +662,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0 !important;
 }
 #qbootstrap-countdown .section-heading h2 {
-  color: #fff;
+  color: #fffff          ;
 }
 @media screen and (max-width: 768px) {
   #qbootstrap-countdown .section-heading h2 {
@@ -671,7 +671,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #qbootstrap-countdown .section-heading .datewed {
   font-size: 30px;
-  color: rgba(255, 255, 255, 0.7);
+  color: #ffffff;
 }
 #qbootstrap-countdown .section-heading.svg-sm .svg {
   height: 180px;
