@@ -16,8 +16,8 @@ body {
   font-weight: 400;
   font-size: 18px;
   line-height: 1.8;
-  color: #CFD8DC;
-  color: #CFD8DC;
+  /*color: #CFD8DC;*/
+  color:#606161;
   background: #fff;
   height: 100%;
   position: relative;
@@ -86,7 +86,9 @@ h1, h2, h3, h4, h5, h6 {
     transition: 0.3s;
   }
   #qbootstrap-header #navbar li a:hover {
-      /*color: #F48FB1 !important;*/
+      /*color: #F48FB1 !important;
+ACA CAMBIAMOS LOS COLORES QUE PENSAMOS QUE SON DEL TELEFONO
+      */
       color: #000000 !important;
   }
   #qbootstrap-header #navbar li a span:before {
@@ -95,7 +97,8 @@ h1, h2, h3, h4, h5, h6 {
   #qbootstrap-header #navbar li.active a {
     background: transparent;
     background: none;
-    /*color: #F48FB1 !important;*/
+    /*color: #F48FB1 !important;
+    ACA CAMBIAMOS LOS COLORES QUE PENSAMOS QUE SON DEL TELEFONO*/
     color: red !important;
   }
   #qbootstrap-header #navbar li.active a span:before {
@@ -1173,7 +1176,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .wedding-events .desc h3 {
   font-size: 40px;
-  color: #FF847C;
+  color: #93566a;
   display: block;
   margin-bottom: 40px;
 }
@@ -1200,7 +1203,8 @@ h1, h2, h3, h4, h5, h6 {
 .wedding-events .desc .icon i {
   color: #fff;
   padding: 15px;
-  background: #FF847C;
+/*  background: #FF847C;*/
+background: #93566a;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;

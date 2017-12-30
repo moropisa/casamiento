@@ -1,10 +1,7 @@
-var mapFiesta = L.map('mapContainerFiesta').setView([-34.634681,-58.741867], 15);
-var layer = L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.{ext}', {
-	attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-	subdomains: 'abcd',
-	minZoom: 1,
-	maxZoom: 16,
-	ext: 'png'
+var mapFiesta = L.map('mapContainerFiesta').setView([-34.637084, -58.648875], 11);
+var layer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+	maxZoom: 19,
+	attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(mapFiesta);
 
 // se pueden buscar otros aca
@@ -31,4 +28,5 @@ $.getJSON("https://raw.githubusercontent.com/moropisa/casamiento/master/data.geo
 		return marker
 	}
 }).addTo(mapFiesta)})
+
 
