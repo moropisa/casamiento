@@ -86,7 +86,8 @@ h1, h2, h3, h4, h5, h6 {
     transition: 0.3s;
   }
   #qbootstrap-header #navbar li a:hover {
-      color: #F48FB1 !important;
+      /*color: #F48FB1 !important;*/
+      color: #000000 !important;
   }
   #qbootstrap-header #navbar li a span:before {
     background: transparent !important;
@@ -94,7 +95,8 @@ h1, h2, h3, h4, h5, h6 {
   #qbootstrap-header #navbar li.active a {
     background: transparent;
     background: none;
-    color: #F48FB1 !important;
+    /*color: #F48FB1 !important;*/
+    color: red !important;
   }
   #qbootstrap-header #navbar li.active a span:before {
     visibility: visible;

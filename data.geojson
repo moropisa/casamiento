@@ -5,7 +5,7 @@
 { "type": "Feature", "properties": { "fechas": "09-03-2018", "popUpContent": "nos casamos!", "usuarios": "moropisa_" }, "geometry": { "type": "Point", "coordinates": [ -58.432757, -34.605825 ] } },
 { "type": "Feature", "properties": { "fechas": "09-03-2018", "popUpContent": "nos casamos!", "usuarios": "moropisa_" }, "geometry": { "type": "Point", "coordinates": [ -58.741867, -34.634681] } }
 ]
-}
+}	
 
 
 
