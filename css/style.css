@@ -251,11 +251,13 @@ ACA CAMBIAMOS LOS COLORES QUE PENSAMOS QUE SON DEL TELEFONO
   padding: 0;
 }
 .section-heading.colored .svg {
-  fill: #CFD8DC;
+  /*fill: #CFD8DC;*/
+  fill: #969696;
 }
 .section-heading h2 {
   font-size: 80px;
-  color: #CFD8DC;
+  /*color: #CFD8DC;*/
+  color: #969696;
   display: block;
   padding-bottom: 20px;
   line-height: 1.5;
