@@ -1,7 +1,0 @@
-- carusel
-- civil mapa - fucsia FF33CC o E100E1
-- la fiesta mapa - amarillo
-- cuanto falta - blanco o negro
-- vestimenta y actividaes - verde
-- regalo - celeste turquesa
-- redes - beige
