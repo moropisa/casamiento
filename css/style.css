@@ -99,7 +99,7 @@ ACA CAMBIAMOS LOS COLORES QUE PENSAMOS QUE SON DEL TELEFONO
     background: none;
     /*color: #F48FB1 !important;
     ACA CAMBIAMOS LOS COLORES QUE PENSAMOS QUE SON DEL TELEFONO*/
-    color: red !important;
+    color: #F48FB1 !important;
   }
   #qbootstrap-header #navbar li.active a span:before {
     visibility: visible;
@@ -113,7 +113,7 @@ ACA CAMBIAMOS LOS COLORES QUE PENSAMOS QUE SON DEL TELEFONO
 }
 #qbootstrap-header #navbar li a {
   font-family: "Source Sans Pro", Arial, sans-serif;
-  color: rgba(255, 255, 255, 0.5);
+  color: #CFD8DC;
   position: relative;
 }
 #qbootstrap-header #navbar li a span {
