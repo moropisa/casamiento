@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #CFD8DC !important;
   }
   #qbootstrap-header #navbar li a {
-    color: rgba(0, 0, 0, 0.5) !important;
+    color: #969696 !important;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
     transition: 0.3s;
